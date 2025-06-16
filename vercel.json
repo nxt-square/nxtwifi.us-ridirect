@@ -1,0 +1,19 @@
+{
+  "redirects": [
+    {
+      "source": "/",                
+      "destination": "https://shop.nxtsq.com/products/nxt-wifi",
+      "permanent": true
+    },
+    {
+      "source": "/jtb",            
+      "destination": "https://shop.nxtsq.com/discount/CGR7AF03K4ZQ?redirect=/products/nxt-wifi-jtb",
+      "permanent": true
+    },
+    {
+      "source": "/jtb-jp",            
+      "destination": "https://shop.nxtsq.com/discount/CGR7AF03K4ZQ?redirect=/products/nxt-wifi-jtb-jp",
+      "permanent": true
+    }
+  ]
+}
