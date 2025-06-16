@@ -14,6 +14,16 @@
       "source": "/jtb-jp",            
       "destination": "https://shop.nxtsq.com/discount/CGR7AF03K4ZQ?redirect=/products/nxt-wifi-jtb-jp",
       "permanent": true
+    },
+    {
+      "source": "/amnet",            
+      "destination": "https://shop.nxtsq.com/discount/CGR7AF03K4ZQ?redirect=/products/nxt-wifi-amnet",
+      "permanent": true
+    },
+    {
+      "source": "/amnet-jp",            
+      "destination": "https://shop.nxtsq.com/discount/CGR7AF03K4ZQ?redirect=/products/nxt-wifi-amnet-jp",
+      "permanent": true
     }
   ]
 }
