@@ -6,6 +6,11 @@
       "permanent": true
     },
     {
+      "source": "/jp",            
+      "destination": "https://shop.nxtsq.com/pages/nxt-wifi-jp",
+      "permanent": true
+    },
+    {
       "source": "/jtb",            
       "destination": "https://shop.nxtsq.com/discount/JTBWIFI30?redirect=/pages/jtb-lp",
       "permanent": true
