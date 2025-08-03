@@ -10,6 +10,11 @@
       "destination": "https://shop.nxtsq.com/pages/nxt-wifi-jp",
       "permanent": true
     },
+        {
+      "source": "/business-form",            
+      "destination": "https://shop.nxtsq.com/discount/AMNETWIFI30?redirect=/pages/amnet-lp",
+      "permanent": true
+    },
     {
       "source": "/jtb",            
       "destination": "https://shop.nxtsq.com/discount/JTBWIFI30?redirect=/pages/jtb-lp",
