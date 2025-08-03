@@ -12,7 +12,7 @@
     },
         {
       "source": "/business-form",            
-      "destination": "https://shop.nxtsq.com/discount/AMNETWIFI30?redirect=/pages/amnet-lp",
+      "destination": "https://shop.nxtsq.com/pages/business-inquiry-form",
       "permanent": true
     },
     {
