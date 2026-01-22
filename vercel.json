@@ -39,6 +39,10 @@
       "source": "/eto-jp",            
       "destination": "https://shop.nxtsq.com/discount/ETO2026?redirect=/pages/nxt-wifi-jp",
       "permanent": true
+    }, {
+      "source": "/vivi-jp",            
+      "destination": "https://shop.nxtsq.com/discount/vivi2026?redirect=/pages/nxt-wifi-jp",
+      "permanent": true
     },
     {
       "source": "/amnet-jp",            
