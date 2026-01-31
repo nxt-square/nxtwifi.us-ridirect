@@ -24,6 +24,10 @@
       "source": "/jtb-jp",            
       "destination": "https://shop.nxtsq.com/discount/JTBWIFI30?redirect=/pages/jtb-lp-jp",
       "permanent": true
+    },{
+      "source": "/jtb-jr",            
+      "destination": "https://shop.nxtsq.com/discount/JTBJR?redirect=/pages/jtb-lp",
+      "permanent": true
     },
     {
       "source": "/dreamavoo",            
@@ -34,6 +38,10 @@
       "source": "/amnet",            
       "destination": "https://shop.nxtsq.com/discount/AMNETWIFI30?redirect=/pages/amnet-lp",
       "permanent": true
+    }, {
+      "source": "/amnet-jr",            
+      "destination": "https://shop.nxtsq.com/discount/AMNETJR?redirect=/pages/amnet-lp",
+      "permanent": true
     },
     {
       "source": "/eto-jp",            
@@ -42,6 +50,14 @@
     }, {
       "source": "/vivi-jp",            
       "destination": "https://shop.nxtsq.com/discount/vivi2026?redirect=/pages/nxt-wifi-jp",
+      "permanent": true
+    }, {
+      "source": "/nta-jr",            
+      "destination": "https://shop.nxtsq.com/discount/NTAJR?redirect=/pages/nxt-wifi",
+      "permanent": true
+    },{
+      "source": "/tta-jr",            
+      "destination": "https://shop.nxtsq.com/discount/TTAJR?redirect=/pages/nxt-wifi",
       "permanent": true
     },
     {
