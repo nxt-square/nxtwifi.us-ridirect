@@ -31,7 +31,12 @@
     },
     {
       "source": "/dreamavoo",            
-      "destination": "https://shop.nxtsq.com/discount/DREAMTT2026?redirect=/products/nxt-wifi-lastminute",
+      "destination": "https://shop.nxtsq.com/discount/DREAMTT2026?redirect=/pages/nxt-wifi",
+      "permanent": true
+    },
+    {
+      "source": "/soj26",            
+      "destination": "https://shop.nxtsq.com/discount/SOJ2630?redirect=/pages/nxt-wifi",
       "permanent": true
     },
         {
