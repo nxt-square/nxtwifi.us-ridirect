@@ -64,10 +64,14 @@
       "source": "/tta-jr",            
       "destination": "https://shop.nxtsq.com/discount/TTAJR?redirect=/pages/nxt-wifi",
       "permanent": true
+    },{
+      "source": "/tta-jr",            
+      "destination": "https://shop.nxtsq.com/discount/TTAJR?redirect=/pages/nxt-wifi",
+      "permanent": true
     },
     {
-      "source": "/amnet-jp",            
-      "destination": "https://shop.nxtsq.com/discount/AMNETWIFI30?redirect=/pages/amnet-lp-jp",
+      "source": "/bayspo-jp",            
+      "destination": "https://shop.nxtsq.com/discount/bayspo30?redirect=/pages/nxt-wifi-jp",
       "permanent": true
     }
   ]
