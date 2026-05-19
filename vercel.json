@@ -73,6 +73,10 @@
       "source": "/bayspo-jp",            
       "destination": "https://shop.nxtsq.com/discount/bayspo30?redirect=/pages/nxt-wifi-jp",
       "permanent": true
+    },{
+      "source": "/support",            
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLScHpB_dQpAcQQ2D4v31a_RsGZ9wyiz6jGks-kNb9YnJdmOE3A/viewform",
+      "permanent": true
     }
   ]
 }
